@@ -1,6 +1,6 @@
 # Prima di usare l'IA — 12 decisioni per la PA
 
-Una web app educativa, in **italiano**, per una verifica individuale al termine dei primi due blocchi della Sessione 3 del Modulo B.
+Una web app educativa, in **italiano**, per una verifica individuale basata su assunti Legge 132/25 e tecniche basilari di prmpting.
 
 ## Cosa contiene
 
@@ -17,13 +17,6 @@ Una web app educativa, in **italiano**, per una verifica individuale al termine 
 3. Seleziona **Inizia la verifica**.
 
 Funziona anche **offline**. Solo i link alle fonti ufficiali richiedono accesso a Internet.
-
-## Pubblicare con GitHub Pages
-
-1. Crea un repository, per esempio `test-legge-132-pa`.
-2. Carica `index.html` (e questo `README.md`) nella cartella principale del repository.
-3. Vai in **Settings > Pages** e seleziona **Deploy from a branch**, branch `main` e cartella `/(root)`.
-4. Una volta pubblicato, condividi l'indirizzo GitHub Pages.
 
 Non sono necessarie API key, dipendenze, build né backend. Il contenuto del repository è accessibile pubblicamente se il repository o il sito Pages sono pubblici: non aggiungere fascicoli reali o dati personali.
 
@@ -60,3 +53,18 @@ Il test è integralmente contenuto nel file `index.html`. Le domande, le alterna
 ## Limiti
 
 Il test **non è un parere legale**, non sostituisce la formazione obbligatoria o le istruzioni dell'ente, e non certifica la conformità di un procedimento. Il punteggio indica soltanto l'allineamento alle decisioni attese per gli scenari simulati.
+
+📄 Licenza
+
+Da definire: si suggerisce una licenza aperta (es. MIT o CC BY 4.0) per favorire il riuso da parte di altri formatori o altri enti. Sostituisci questo paragrafo con il testo della licenza scelta e il file LICENSE del repo.
+
+👤 Autore e contesto
+
+Gianluigi Cogo Content creator e technical writer interessato ad AI generativa, automazioni, viaggi e strumenti digitali. Consulente e docente sui temi dell'IA generativa nella Pubblica Amministrazione.
+
+L'app nasce come esercitazione nel percorso operativo "L'IA nella Pubblica Amministrazione — Percorso operativo per l'uso consapevole, sicuro e governato dell'IA generativa" (20 ore: percorso base per funzionari ed esecutori + modulo governance per direttori e dirigenti). Per info sul corso contattatemi usando i social qui sotto.
+
+📮 Newsletter: gigicogo.substack.com
+📝 Blog: medium.com/webeconoscenza
+▶️ YouTube: youtube.com/@gigicogo
+💼 LinkedIn: linkedin.com/in/gigicogo
